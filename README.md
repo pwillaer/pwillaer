@@ -1,7 +1,13 @@
 <h1 align="center">Hi there 👋</h1>
 
-Connect with me:
-https://www.linkedin.com/in/paulinewillaert/
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="[https://www.linkedin.com/in/paulinewillaert/](https://www.linkedin.com/in/paulinewillaert/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pauline willaert" height="30" width="40" /></a>
+</p>
 
-Languages and Tools:
-python  scikit_learn  tensorflow
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+</p>
