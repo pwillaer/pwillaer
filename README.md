@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">✨ Data Scientist ✨</h3>
 
+I caught fire coding. My journey so far includes proven hands-on experience in building and deploying LLM-powered automation bots and industry experience in consulting where I've honed both my business & technical skills, backed by intensive coding Data Science, Machine Learning, and MLOps certifications. I resonate with Simon Sinek’s insight as I am convinced that “Working hard for something we don't care about is called stress. Working hard for something we love is called passion.” I thrive on challenges and eagerly seek opportunities to collaborate on meaningful and impactful projects.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/paulinewillaert/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pauline willaert" height="30" width="40" /></a>
