@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">✨ Data Scientist ✨</h3>
+<h3 align="center">✨ AI Engineer ✨</h3>
 
 I caught fire coding. My journey so far includes proven hands-on experience in building and deploying LLM-powered automation bots, backed by intensive coding Data Science, Machine Learning, and MLOps certifications. 
 
